@@ -27,8 +27,8 @@
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
   The set of variables that were estimated from these signals are:
-    - mean(): Mean Values
-    - std(): Standard deviation
+  + mean(): Mean Values
+  + std(): Standard deviation
 
 3. **tBodyAcc-mean()-X**
 4. **tBodyAcc-mean()-Z**
