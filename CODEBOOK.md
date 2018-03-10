@@ -1,8 +1,7 @@
 ## Data Dictionary - Human Activity Recognition Using Smartphones Data Set ##
 
 1. **activity**
-
-      Activity description
+            Activity description
   
    * WALKING
    * WALKING_UPSTAIRS
