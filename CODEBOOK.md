@@ -2,7 +2,7 @@
 
 1. **activity**
 
-            Activity description
+   Activity description
    * WALKING
    * WALKING_UPSTAIRS
    * WALKING_DOWNSTAIRS
