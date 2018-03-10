@@ -8,8 +8,11 @@
     + STANDING
     + LAYING
 
-2. **subject**
-      * Experiment participant-each given a unique code from 1-30
-   
+2. **subject** : Experiment participant-each given a unique code from 1-30
+    + 1
+    + 2
+    + 3
+    + ...
+    + 30
 
 
