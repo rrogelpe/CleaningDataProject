@@ -1,7 +1,7 @@
 ## Data Dictionary - Human Activity Recognition Using Smartphones Data Set ##
 
 1. **activity**
-      Activity description
+     * Activity description
             * WALKING
             * WALKING_UPSTAIRS
             * WALKING_DOWNSTAIRS
@@ -10,7 +10,7 @@
             * LAYING
 
 2. **subject**
-      Experiment participant-each given a unique code from 1-30
+      * Experiment participant-each given a unique code from 1-30
    
 
 
