@@ -1,4 +1,4 @@
-##Please note that the 'dplyr' and 'plyr' packages are required to run the function##
+## Please note that the 'dplyr' and 'plyr' packages are required to run the function ##
 
 This file describes how the script works in a step-by-step fashion by walking the reader through select lines of the code.
 
