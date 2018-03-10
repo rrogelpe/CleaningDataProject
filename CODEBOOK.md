@@ -1,4 +1,3 @@
-
 #### Data Dictionary - Human Activity Recognition Using Smartphones Data Set ####
 
 1. **activity** : Activity description
@@ -27,4 +26,69 @@
   These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-
+3. **tBodyAcc-mean()-X**
+4. **tBodyAcc-mean()-Z**
+5. **tGravityAcc-mean()-X**
+6. **tGravityAcc-std()-Y**
+7. **tBodyAccJerk-mean()-Z**
+8. **tBodyGyro-mean()-X**
+9. **tBodyGyro-std()-Y**
+10. **tBodyGyroJerk-mean()-Z**
+11. **tBodyAccMag-mean()**
+12. **tBodyAccJerkMag-mean()**
+13. **tBodyGyroJerkMag-mean()**
+14. **fBodyAcc-mean()-Z**
+15. **fBodyAccJerk-mean()-X**
+16. **fBodyAccJerk-std()-Y**
+17. **fBodyGyro-mean()-Z**
+18. **fBodyAccMag-mean()**
+19. **fBodyBodyGyroMag-mean()**
+20. **"tBodyAcc-mean()-Y"**
+21. **"tBodyAcc-std()-X"**
+22. **"tGravityAcc-mean()-Y"**
+23. **"tGravityAcc-std()-Z"**
+24. **"tBodyAccJerk-std()-X"**
+25. **"tBodyGyro-mean()-Y"**
+26. **"tBodyGyro-std()-Z"**
+27. **"tBodyGyroJerk-std()-X"**
+28. **"tBodyAccMag-std()"**
+29. **"tBodyAccJerkMag-std()"**
+30. **"tBodyGyroJerkMag-std()"**
+31. **"fBodyAcc-std()-X"**
+32. **"fBodyAccJerk-mean()-Y"**
+33. **"fBodyAccJerk-std()-Z"**
+34. **"fBodyGyro-std()-X"**
+35. **"fBodyAccMag-std()"**
+36. **"fBodyBodyGyroMag-std()"**
+37. **"tBodyAcc-std()-Y"**
+38. **"tGravityAcc-mean()-Z"**
+39. **"tBodyAccJerk-mean()-X"**
+40. **"tBodyAccJerk-std()-Y"**
+41. **"tBodyGyro-mean()-Z"**
+42. **"tBodyGyroJerk-mean()-X"**
+43. **"tBodyGyroJerk-std()-Y"**
+44. **"tGravityAccMag-mean()"**
+45. **"tBodyGyroMag-mean()"**
+46. **"fBodyAcc-mean()-X"**
+47. **"fBodyAcc-std()-Y"**
+48. **"fBodyAccJerk-mean()-Z"**
+49. **"fBodyGyro-mean()-X"**
+50. **"fBodyGyro-std()-Y"**
+51. **"fBodyBodyAccJerkMag-mean()"**
+52. **"fBodyBodyGyroJerkMag-mean()"**
+53. **"tBodyAcc-std()-Z"**
+54. **"tGravityAcc-std()-X"**
+55. **"tBodyAccJerk-mean()-Y"**
+56. **"tBodyAccJerk-std()-Z"**
+57. **"tBodyGyro-std()-X"**
+58. **"tBodyGyroJerk-mean()-Y"**
+59. **"tBodyGyroJerk-std()-Z"**
+60. **"tGravityAccMag-std()"**
+61. **"tBodyGyroMag-std()"**
+62. **"fBodyAcc-mean()-Y"**
+63. **"fBodyAcc-std()-Z"**
+64. **"fBodyAccJerk-std()-X"**
+65. **"fBodyGyro-mean()-Y"**
+66. **"fBodyGyro-std()-Z"**
+67. **"fBodyBodyAccJerkMag-std()"**
+68. **"fBodyBodyGyroJerkMag-std()"**
